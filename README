@@ -1,8 +1,16 @@
            -------------------------------------------------
            Guidelines for beamerthemeiist.sty LaTeX Template 
            -------------------------------------------------
-               https://github.com/4sarathbabu/IISTSlides
+               https://github.com/harshvinay752/IISTSlides
 
+It was adopted and improved version on from https://github.com/4sarathbabu/IISTSlides.
+
+Improvements:
+
++ Correctly aligned IIST logo in slides.
++ Option for Two Guide.
++ Option for SC Code, Course Code.
++ Other minor fixes.
                
 The template 'beamerthemeiist.sty' is developed to create presentation
 slides using LaTeX with IIST flavor. The theme includes IIST logo and
